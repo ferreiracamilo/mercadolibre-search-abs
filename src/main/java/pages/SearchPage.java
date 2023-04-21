@@ -40,9 +40,6 @@ public class SearchPage{
      * Region Methods
      */
 
-    /**
-     * Write item to search to retrieve a new page listing matches
-     */
     public void clickNextPage (){
         SeleniumUtils.moveToButtonAndClick(btnSiguiente);
     }
