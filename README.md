@@ -1,8 +1,6 @@
 # mercadolibre-search-abs
  Project for abs technical test
 
-# mercadolibre-search-abs
-
 ## Application Objective
 Access mercadolibre to search for a specific item to then navigate first 3 pages and collect item results into a txt file.
 
