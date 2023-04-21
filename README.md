@@ -27,6 +27,7 @@ Set VM Options as "-Dbrowser=chrome"
 - Page Object Model
 - PageFactory
 - WebDriver Manager -it is not needed to download any webdriver-
+- Selenium
 
 ## Author
 Designed and developed by Camilo Ferreira
