@@ -23,5 +23,4 @@ public class SeleniumUtils extends DriverFactory{
         wait.until(ExpectedConditions.elementToBeClickable(element)).click();
     }
 
-
 }
