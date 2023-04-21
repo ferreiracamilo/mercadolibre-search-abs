@@ -7,7 +7,7 @@
 Access mercadolibre to search for a specific item to then navigate first 3 pages and collect item results into a txt file.
 
 ## Video demo
-[<img src="https://i.imgur.com/fx7HtHi.jpg" width="50%">](https://www.youtube.com/watch?v=LCo2aUeQY50 "mercadolibre search abs Demo")
+[<img src="https://i.imgur.com/hpIXVFe.png" width="50%">](https://www.youtube.com/watch?v=LCo2aUeQY50 "mercadolibre search abs Demo")
 
 ## Brief Explanation to execute
 With any of executions below is possible to update value for -Dbrowser variable to launch a different browser
