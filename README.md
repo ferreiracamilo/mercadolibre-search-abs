@@ -17,7 +17,7 @@ clean test -Dtest=SearchItemsValidations#searchRemeras -Dbrowser=chrome
 ```
 
 Througout TestNG
-Set VM Options as "-Dbrowser=chrome"
+Set VM Options as
 ```
 -Dbrowser=chrome
 ```
