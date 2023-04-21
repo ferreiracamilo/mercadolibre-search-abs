@@ -8,7 +8,7 @@ Access mercadolibre to search for a specific item to then navigate first 3 pages
 [<img src="https://i.imgur.com/hpIXVFe.png" width="50%">](https://www.youtube.com/watch?v=LCo2aUeQY50 "mercadolibre search abs Demo")
 
 ## Brief Explanation to execute
-With any of executions below is possible to update value for -Dbrowser variable to launch a different browser
+Any of the executions below has a parameter called 'browser' to specify the browser to launch
 
 It is required to install Java 11 -preferred one- or greather for execution.
 
@@ -18,17 +18,18 @@ clean test -Dtest=SearchItemsValidations#searchRemeras -Dbrowser=chrome
 ```
 
 Througout TestNG
-Set VM Options as
+Set VM Options as and specify the actual test to execute
 ```
 -Dbrowser=chrome
 ```
 
-## Knowledge applied
+## Applied
 - TestNG
 - Page Object Model
 - PageFactory
 - WebDriver Manager -it is not needed to download any webdriver-
 - Selenium
+- Maven
 
 ## Author
 Designed and developed by Camilo Ferreira
