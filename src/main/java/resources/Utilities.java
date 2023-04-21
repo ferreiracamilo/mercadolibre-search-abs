@@ -12,7 +12,6 @@ public class Utilities {
              BufferedWriter info = new BufferedWriter(fstream)) {
             for(String itemLine : items) {
                 info.write(String.format("%s%n",itemLine));
-                // info.write(String.format("Hello%n"));
             }
         } catch (IOException e) {
             e.printStackTrace();
