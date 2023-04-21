@@ -8,9 +8,9 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class SeleniumUtils extends DriverFactory{
 
     private static JavascriptExecutor js = (JavascriptExecutor) driver;
-    static WebDriverWait wait = new WebDriverWait(driver, 8);
+    private static WebDriverWait wait = new WebDriverWait(driver, 8);
+    
     public static WebElement waitUntilIsVisible(WebElement element) {
-        // WebDriverWait wait = new WebDriverWait(driver, 8);
         return wait.until(ExpectedConditions.visibilityOf(element));
     }
 
