@@ -39,7 +39,6 @@ public class SearchPage{
     /**
      * Region Methods
      */
-
     public void clickNextPage (){
         SeleniumUtils.moveToButtonAndClick(btnSiguiente);
     }
