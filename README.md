@@ -10,7 +10,8 @@ Access mercadolibre to search for a specific item to then navigate first 3 pages
 ## Brief Explanation to execute
 Any of the executions below has a parameter called 'browser' to specify the browser to launch
 
-It is required to install Java 11 -preferred one- or greather for execution.
+-It is required to install Java 11 -preferred one- or greather for execution.
+-Any browser intended to be launch must be installed previously to execution
 
 Throughout maven command line execute command below.
 ```
